@@ -26,8 +26,8 @@ public class Login {
     }
 
     // Getters and setters. It is optional but it is good practice
-    // Getters (get...) allow other classes to safely read our private variables.
-    // Setters (set...) allow other classes to safely change or update our private variables.
+    // Getters allow other classes to safely read our private variables.
+    // Setters allow other classes to safely change or update our private variables.
     public String getUsername() {
         return username;
     }
